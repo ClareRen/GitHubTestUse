@@ -10,3 +10,5 @@ rescan的时候，发现有改动，才会重新stage changed--阶段性的修�
 
 
 直接在 master上修改了内容，重新利用git bash 拉取一遍
+
+修改文件的内容之后
