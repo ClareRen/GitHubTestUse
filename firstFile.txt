@@ -8,4 +8,4 @@ rescan的时候，发现有改动，才会重新stage changed--阶段性的修�
 
 
 
-then OK,this the third branch ,but how to merge ?
+
