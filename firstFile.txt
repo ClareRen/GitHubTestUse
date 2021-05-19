@@ -4,3 +4,4 @@ git本地仓库创建好后添加的第一个文件夹
 
 已经stag过一遍了，再来stag一遍吧，反正我也不知道它是什么意思，在这里修改了内容，git上得
 rescan的时候，发现有改动，才会重新stage changed--阶段性的修改？？
+我就修改完了，我stag完了，然后commit完了，然后我就push ----然后这里就出问题了，destination repository不知道填写啥，后来发现必须在网站的github上先创建一个仓库，然后把这个仓库的地址给复制了放在destination repository 的地方，然后才可以提交成功 ，嗯，反正是提交成功了！
