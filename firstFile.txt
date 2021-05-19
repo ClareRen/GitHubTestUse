@@ -9,4 +9,4 @@ rescan的时候，发现有改动，才会重新stage changed--阶段性的修�
 好了，这里我在master的基础上做第二次修改，这次我出重新拉取了一个branch，看下会发生什么事情，和第一个branch之间会是什么关系呢？
 
 
-直接在 master上修改了内容，重新利用git bash 拉取一遍
+直接在 master上修改了内容，重新利用git bash 拉取一遍，这是一个分支了啦
