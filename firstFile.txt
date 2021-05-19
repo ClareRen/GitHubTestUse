@@ -1,0 +1,6 @@
+git本地仓库创建好后添加的第一个文件夹
+
+必须得本地的仓库有内容，才需要在git客户端去stage changed，然后commit ,然后push，是吧？
+
+已经stag过一遍了，再来stag一遍吧，反正我也不知道它是什么意思，在这里修改了内容，git上得
+rescan的时候，发现有改动，才会重新stage changed--阶段性的修改？？
